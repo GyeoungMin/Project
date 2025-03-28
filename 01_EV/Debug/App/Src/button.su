@@ -1,0 +1,2 @@
+../App/Src/button.c:12:6:IsButtonPress	32	static
+../App/Src/button.c:37:9:GetPressedButton	16	static

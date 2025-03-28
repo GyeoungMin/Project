@@ -1,0 +1,2 @@
+../App/hw/hw.c:5:6:hwInit	8	static
+../App/hw/hw.c:18:1:__io_putchar	16	static

@@ -1,0 +1,6 @@
+../App/Src/servo.c:7:6:servoInit	1
+../App/Src/servo.c:12:6:angleCheck	3
+../App/Src/servo.c:18:6:OpenDoor	3
+../App/Src/servo.c:31:6:CloseDoor	3
+../App/Src/servo.c:44:6:ControlDoor	1
+../App/Src/servo.c:51:9:GetStateDoor	1

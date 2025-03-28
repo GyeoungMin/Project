@@ -1,0 +1,8 @@
+../App/Src/stepper.c:12:6:stepperInit	16	static
+../App/Src/stepper.c:19:6:stepMotor	16	static
+../App/Src/stepper.c:55:6:HAL_TIM_PeriodElapsedCallback	16	static
+../App/Src/stepper.c:94:6:stepperSpeed	24	static
+../App/Src/stepper.c:109:6:setMotorDirection	16	static
+../App/Src/stepper.c:114:6:rotateDegrees	24	static
+../App/Src/stepper.c:129:9:GetStateStep	4	static
+../App/Src/stepper.c:134:6:StopMotor	4	static
